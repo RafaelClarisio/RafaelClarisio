@@ -5,10 +5,15 @@
 
 <h1>Seja bem vindo ao meu perfil!</h1>
 
-<p>Atualmente curso Engenharia de Software</p>
+<p>Atualmente curso <b>Engenharia de Software</b></p>
 <p>Faço estagio na area de infra</p>
 <p>Estudo desenvolvimento web, confira os projetos nos repositorios!</p>
 <h2>Obrigado pela visita!😁👍</h2>
+<p><i style="font-size: 8px;">É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.</i></p>
+
+
+<p> </p>
+<p> </p>
 <!--
 **RG-96W/RG-96W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,8 +37,8 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://i.pinimg.com/originals/72/22/64/722264317bb747b1d3ecab8be31f36f2.gif" height="200px" ></div> 
-          
+<img src="https://i.pinimg.com/originals/72/22/64/722264317bb747b1d3ecab8be31f36f2.gif" height="200px" >
+<p><b><i>Coffee Time</i></b></p></div> 
           
           
           
