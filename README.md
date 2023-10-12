@@ -1,9 +1,9 @@
 
 
 <div align="center" justfy="center">
-Olá!👋
+<h2>Olá!👋</h2>
 
-## Seja bem vindo ao meu perfil!
+<h1>Seja bem vindo ao meu perfil!</h1>
 
 <p>Atualmente curso Engenharia de Software</p>
 <p>Faço estagio na area de infra</p>
