@@ -9,7 +9,7 @@
 <p>Faço estagio na area de infra</p>
 <p>Estudo desenvolvimento web, confira os projetos nos repositorios!</p>
 <h2>Obrigado pela visita!😁👍</h2>
-<p><i style="font-size: 8px;">É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.</i></p>
+<p><i style="font-size: 8px;">"-É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.</i></p>
 
 
 <p> </p>
